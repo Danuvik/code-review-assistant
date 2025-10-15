@@ -8,6 +8,9 @@
 </div>
 
 An AI-powered web application that automates code reviews, providing instant feedback on readability, modularity, and potential bugs. Built with React and powered by the Google Gemini API.
+<div>
+    Video Link: https://drive.google.com/file/d/1u5kEurm1vWUDfvF-_5fk0H67W9p03nOu/view?usp=sharing
+</div>
 
 
 ## Table of Contents
